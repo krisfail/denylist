@@ -187,3 +187,7 @@ go\.flix-movies\.com
 *://hattatu-matome.ldblog.jp/*
 *://nnndsk.livedoor.blog/*
 *://i2chmeijin.blog.fc2.com/*
+*://meiji-jouhoukyoku.com/*
+*://mikobito.com/*
+*://hellomitz3.net/*
+*://subschan.com/*
